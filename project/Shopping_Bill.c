@@ -1,6 +1,6 @@
 
 
-/*           CODED BY :- SINGH SUKESH                                                      *
+/*           CODED BY :- SINGH SUKESH                                                      */
 
 #include<stdio.h>
 #include<string.h>
